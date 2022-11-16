@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/drum-machine.git/static/css/main.1b22b247.css",
-    "main.js": "/drum-machine.git/static/js/main.f7acf9cc.js",
-    "static/js/787.c419f7a1.chunk.js": "/drum-machine.git/static/js/787.c419f7a1.chunk.js",
-    "index.html": "/drum-machine.git/index.html",
-    "main.1b22b247.css.map": "/drum-machine.git/static/css/main.1b22b247.css.map",
-    "main.f7acf9cc.js.map": "/drum-machine.git/static/js/main.f7acf9cc.js.map",
-    "787.c419f7a1.chunk.js.map": "/drum-machine.git/static/js/787.c419f7a1.chunk.js.map"
+    "main.css": "/drum-machine/static/css/main.1b22b247.css",
+    "main.js": "/drum-machine/static/js/main.b497d420.js",
+    "static/js/787.c419f7a1.chunk.js": "/drum-machine/static/js/787.c419f7a1.chunk.js",
+    "index.html": "/drum-machine/index.html",
+    "main.1b22b247.css.map": "/drum-machine/static/css/main.1b22b247.css.map",
+    "main.b497d420.js.map": "/drum-machine/static/js/main.b497d420.js.map",
+    "787.c419f7a1.chunk.js.map": "/drum-machine/static/js/787.c419f7a1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1b22b247.css",
-    "static/js/main.f7acf9cc.js"
+    "static/js/main.b497d420.js"
   ]
 }
